@@ -1,7 +1,7 @@
 Steps to follow: 
 
 1. Clone the neo430 repo from github for example compiled binaries.
-3. Add all neo430 files to a package named "neo430" in Vivado Project Manager.
+3. Add all neo430 RTL files to a package named "neo430" in Vivado Project Manager.
 4. Add the wishbone_aes subdirectory under neo430/sw/example/.
 5. Download Chipwhisperer package into a virtual environment or available Chipwhisperer Jupyter Server.
 6. Download NEO430 toolchain from https://www.ti.com/tool/MSP430-GCC-OPENSOURCE#downloads
